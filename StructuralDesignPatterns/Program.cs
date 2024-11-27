@@ -1,5 +1,8 @@
-﻿using StructuralDesignPatterns.Adapter;
-using StructuralDesignPatterns.Adapter.Package;
+﻿using StructuralDesignPatterns.Bridge.GoodSln;
 
-var videoEditor =  new VideoEditor(new Video());
-videoEditor.ApplyColor(new RainbowColor(new RainbowInheritance()));
+var lgremote = new RemoteControl(new LGRadio());
+lgremote.TurnOff();
+lgremote.TurnOn();
+
+var advanced = new AdvancedRemoteControl(new SonyRadio());
+advanced.SetChannel(3);
