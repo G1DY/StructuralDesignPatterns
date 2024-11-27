@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\bin\Debug\net8.0\StructuralDesignPatterns.exe
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\bin\Debug\net8.0\StructuralDesignPatterns.deps.json
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\bin\Debug\net8.0\StructuralDesignPatterns.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\bin\Debug\net8.0\StructuralDesignPatterns.dll
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\bin\Debug\net8.0\StructuralDesignPatterns.pdb
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.sourcelink.json
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.dll
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\refint\StructuralDesignPatterns.dll
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.pdb
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\StructuralDesignPatterns.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\SDP\StructuralDesignPatterns\obj\Debug\net8.0\ref\StructuralDesignPatterns.dll
