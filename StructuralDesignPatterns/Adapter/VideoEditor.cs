@@ -18,3 +18,6 @@ namespace StructuralDesignPatterns.Adapter
         }
     }
 }
+// CLIENTSIDECODE:
+// var videoEditor =  new VideoEditor(new Video());
+// videoEditor.ApplyColor(new RainbowColor(new RainbowInheritance()));
