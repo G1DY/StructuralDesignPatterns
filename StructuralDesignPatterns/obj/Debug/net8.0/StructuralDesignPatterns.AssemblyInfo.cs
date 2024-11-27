@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StructuralDesignPatterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ffc248f3c6a4d510fb11732acb813f11227ccc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dab26e82d52c25640f9d97f1c37c111445d31cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("StructuralDesignPatterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StructuralDesignPatterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
