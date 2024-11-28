@@ -1,8 +1,11 @@
-﻿using StructuralDesignPatterns.Bridge.GoodSln;
+﻿using StructuralDesignPatterns.Proxy.BadSln.Package;
+using StructuralDesignPatterns.Proxy.BadSln;
 
-var lgremote = new RemoteControl(new LGRadio());
-lgremote.TurnOff();
-lgremote.TurnOn();
+var videoList = new VideoList();
+String[] videoIds = { "123", "abcd", "efgh"};
 
-var advanced = new AdvancedRemoteControl(new SonyRadio());
-advanced.SetChannel(3);
+foreach(var videoId in videoIds)
+{
+    videoList.Add(new YoutubeVideo(videoId));
+}
+videoList.Watch("123");
