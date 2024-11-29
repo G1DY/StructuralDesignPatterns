@@ -15,7 +15,7 @@ namespace StructuralDesignPatterns.Proxy.BadSln.Package
         }
         private void Download()
         {
-            System.Console.WriteLine("Downloading video with id " + _videoId + "from Youtube API");
+            System.Console.WriteLine("Downloading video with id " + _videoId + " from Youtube API");
         }
         public void Render()
         {
