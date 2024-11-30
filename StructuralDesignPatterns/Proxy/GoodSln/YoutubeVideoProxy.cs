@@ -28,4 +28,13 @@ namespace StructuralDesignPatterns.Proxy.GoodSln
             _youtubeVideo.Render();
         }
     }
-}
+} 
+// CLIENTSIDECODE:
+// var videoList = new VideoList();
+// String[] videoIds = { "123", "abcd", "efgh"};
+
+// foreach(var videoId in videoIds)
+// {
+//     videoList.Add(new YoutubeVideoProxy(videoId));
+// }
+// videoList.Watch("123");

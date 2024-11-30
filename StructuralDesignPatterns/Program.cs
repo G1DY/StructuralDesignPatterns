@@ -1,12 +1,7 @@
-﻿using StructuralDesignPatterns.Proxy.BadSln.Package;
-using StructuralDesignPatterns.Proxy.BadSln;
-using StructuralDesignPatterns.Proxy.GoodSln;
+﻿using StructuralDesignPatterns.FlyWeight;
 
-var videoList = new VideoList();
-String[] videoIds = { "123", "abcd", "efgh"};
-
-foreach(var videoId in videoIds)
+var cropService = new CropService();
+foreach(var crop in cropService.GetCrops())
 {
-    videoList.Add(new YoutubeVideoProxy(videoId));
+    crop.Render();
 }
-videoList.Watch("123");
